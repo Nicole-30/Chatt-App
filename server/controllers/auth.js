@@ -2,7 +2,7 @@ const {connect} = require('getstream');
 const bcrypt = require ('bcrypt');
 const StreamChat = require('stream-chat').StreamChat;
 const crypto = require ('crypto');
-const { log } = require('console');
+
 
 
 require('dotenv').config();
